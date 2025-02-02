@@ -1,0 +1,28 @@
+{
+  "backgroundColor": "#000000",
+  "fontColor": "#41E64E",
+  "flickering": 0,
+  "horizontalSync": 0.16,
+  "staticNoise": 0,
+  "chromaColor": 1,
+  "saturationColor": 1,
+  "screenCurvature": 0,
+  "glowingLine": 0,
+  "burnIn": 0.1,
+  "bloom": 0.4,
+  "rasterization": 0,
+  "jitter": 0.05,
+  "rbgShift": 0,
+  "brightness": 0.6,
+  "contrast": 1,
+  "ambientLight": 0.15,
+  "windowOpacity": 0.9,
+  "fontName": "System: GohuFont 14 Nerd Font",
+  "fontWidth": 1,
+  "margin": 0.1,
+  "blinkingCursor": false,
+  "frameMargin": 0,
+  "name": "MU/TH/UR (Nerd Font)",
+  "version": 2
+}
+

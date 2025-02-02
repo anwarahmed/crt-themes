@@ -1,0 +1,28 @@
+{
+  "backgroundColor": "#000000",
+  "fontColor": "#7cff4f",
+  "flickering": 0.1,
+  "horizontalSync": 0.151,
+  "staticNoise": 0.15,
+  "chromaColor": 0.5,
+  "saturationColor": 0.5,
+  "screenCurvature": 0.3,
+  "glowingLine": 0.2,
+  "burnIn": 0.3,
+  "bloom": 0.6,
+  "rasterization": 0,
+  "jitter": 0.11,
+  "rbgShift": 0,
+  "brightness": 0.5,
+  "contrast": 0.6,
+  "ambientLight": 0,
+  "windowOpacity": 1,
+  "fontName": "System: GohuFont 14 Nerd Font Mono",
+  "fontWidth": 1,
+  "margin": 0.5,
+  "blinkingCursor": false,
+  "frameMargin": 0.1,
+  "name": "Green Scanlines (Nerd Font)",
+  "version": 2
+}
+

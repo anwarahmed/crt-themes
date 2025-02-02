@@ -1,0 +1,28 @@
+{
+  "backgroundColor": "#000000",
+  "fontColor": "#0ccc68",
+  "flickering": 0,
+  "horizontalSync": 0,
+  "staticNoise": 0,
+  "chromaColor": 0,
+  "saturationColor": 0,
+  "screenCurvature": 0.2,
+  "glowingLine": 0,
+  "burnIn": 0.6,
+  "bloom": 0.2969,
+  "rasterization": 0,
+  "jitter": 0,
+  "rbgShift": 0,
+  "brightness": 0.5,
+  "contrast": 0.85,
+  "ambientLight": 0.1,
+  "windowOpacity": 1,
+  "fontName": "System: 3270 Nerd Font Mono",
+  "fontWidth": 1,
+  "margin": 0.5,
+  "blinkingCursor": false,
+  "frameMargin": 0.1,
+  "name": "IBM 3278 (Nerd Font)",
+  "version": 2
+}
+

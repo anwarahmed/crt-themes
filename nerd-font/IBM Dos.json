@@ -1,0 +1,28 @@
+{
+  "backgroundColor": "#000000",
+  "fontColor": "#ffffff",
+  "flickering": 0.0955,
+  "horizontalSync": 0,
+  "staticNoise": 0.0503,
+  "chromaColor": 1,
+  "saturationColor": 0,
+  "screenCurvature": 0.4,
+  "glowingLine": 0.1545,
+  "burnIn": 0.0469,
+  "bloom": 0.2969,
+  "rasterization": 0,
+  "jitter": 0.1545,
+  "rbgShift": 0.3524,
+  "brightness": 0.5,
+  "contrast": 0.85,
+  "ambientLight": 0.151,
+  "windowOpacity": 1,
+  "fontName": "System: 3270 Nerd Font Mono",
+  "fontWidth": 1,
+  "margin": 0.5,
+  "blinkingCursor": false,
+  "frameMargin": 0.2,
+  "name": "IBM Dos (Nerd Font)",
+  "version": 2
+}
+
